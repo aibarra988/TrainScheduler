@@ -1,0 +1,8 @@
+body {
+    padding: 5%;
+}
+
+#add-train-form {
+    display: flex;
+    flex-direction: column;
+}

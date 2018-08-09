@@ -1,0 +1,7 @@
+first train time = 3:00 am
+frequency = 17 minutes
+current time = 7:12
+
+How many minutes away is the next train?
+
+
